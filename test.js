@@ -30,11 +30,11 @@ plusieurs lignes
 
 // lastName = "Muche";//Error
 
-let age = 18; //type number
+// let age = 18; //type number
 
-console.log(age);
+// console.log(age);
 
-console.log(typeof age);
+// console.log(typeof age);
 
 // if (age > 18) {
 //   console.log("droit de conduire");
@@ -50,16 +50,35 @@ console.log(typeof age);
 // }
 
 
-if (typeof age !== "number") {
-    console.log(age + "n'est pas un nombre");
-} else {
-    if (age > 18) {
-  console.log("droit de conduire");
-} 
-else if (age == 18) {
-  console.log("anniv");
-} 
-else {
-  console.log("patience !");
-}
-}
+// if (typeof age !== "number") {
+//     console.log(age + "n'est pas un nombre");
+// } else {
+//     if (age > 18) {
+//   console.log("droit de conduire");
+// } 
+// else if (age == 18) {
+//   console.log("anniv");
+// } 
+// else {
+//   console.log("patience !");
+// }
+// }
+
+// let i=0
+// while (i<5) {
+//     console.log(i);
+//     i++
+// }
+
+// for (let i=0; i<5; i++) {
+//     console.log(i);
+// }
+
+
+
+
+
+
+
+// EXERCICE 5.1
+
