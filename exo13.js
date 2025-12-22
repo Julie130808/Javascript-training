@@ -35,6 +35,7 @@ const scoresJeu1 = collection [0].scores;
 const moyenneScoresJeu1 = scoresJeu1.reduce ((total, scores) => total + scores, 0) / scoresJeu1.length;
 console.log("Score moyen du jeu Space Adventure : ", moyenneScoresJeu1);
 
+
 const totalscores = collection.reduce ((total, jeu) => {
     return total + jeu.scores.reduce ((t, s) => t + s, 0);
 }, 0);
